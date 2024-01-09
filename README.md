@@ -4,6 +4,6 @@
 
 - 🌱 I’m currently learning [Electron](https://www.electronjs.org/)
 
-- 📫 How to reach me: ancel_ [Discord](https://discord.gg/ZhZ8eJZc42)
+- 📫 How to reach me: ancel_ [Discord](https://discord.com)
 <!--
 **ancel1x/ancel1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
