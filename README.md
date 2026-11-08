@@ -2,7 +2,6 @@
 
 I build Windows performance tools for gamers.
 
-<br/>
 
 - 🚀 Founder & CEO of [Avallon](https://www.avallontweaks.com/), Windows optimizations for a smoother, higher-FPS experience
 
