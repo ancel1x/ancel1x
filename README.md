@@ -1,4 +1,4 @@
-## Hi, I'm ancel 👋
+# Hi, I'm ancel 👋
 
 I build Windows performance tools for gamers.
 
@@ -9,6 +9,6 @@ I build Windows performance tools for gamers.
 - 📫 Reach me: `ancel_` on Discord
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg" />
-  <img src="assets/languages-light.svg" alt="Top languages" width="480" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg?v=3" />
+  <img src="assets/languages-light.svg?v=3" alt="Top languages" width="480" />
 </picture>
