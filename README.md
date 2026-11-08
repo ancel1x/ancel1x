@@ -2,8 +2,10 @@
 
 Computer science college student.
 
-- 🚀 Founder & CEO of [Avallon](https://www.avallontweaks.com/), system optimizations for gamers
+- 🚀 Founder & CEO of [Avallon](https://www.avallontweaks.com/)
+
 - 🗂️ Previously made [Ancel's Performance Batch](https://github.com/ancel1x/Ancels-Performance-Batch) (no longer maintained)
+
 - 📫 Reach me: `ancel_` on Discord
 
 <picture>
