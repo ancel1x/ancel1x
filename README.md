@@ -1,6 +1,6 @@
 # Hi, I'm ancel 👋
 
-Computer science college student.
+Computer science college student and founder.
 
 - 🚀 Founder & CEO of [Avallon](https://www.avallontweaks.com/)
 
